@@ -1,0 +1,21 @@
+.ConPass{
+    display: flex;
+    flex-direction: column;
+}
+
+#confirmPassword{
+    width: 400px;
+    padding: 5px;
+    border-radius: 8px;
+    /* border-radius: 2px solid green; */
+}
+
+.SignupBtn{
+    margin-top: 30px;
+    padding: 10px 20px;
+    margin-left: 150px;
+    border: none;
+    background-color: rgb(92, 7, 171);
+    color: white;
+    border-radius: 7px;
+}

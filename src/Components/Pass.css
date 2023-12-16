@@ -1,0 +1,13 @@
+.passDiv{
+    display: flex;
+    flex-direction: column;
+}
+
+#passwordInput{
+    border-radius: 8px;
+}
+
+p{
+    color: red;
+    font-size: 14px;
+}

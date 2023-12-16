@@ -1,0 +1,15 @@
+*{
+    font-size: 20px;
+    padding: 2px 0px;
+}
+
+.App{
+    width: 500px;
+    height: 400px;
+    position: relative;
+    top: 150px;
+    left: 450px;
+    padding: 10px 20px;
+    /* border: 2px solid goldenrod; */
+   
+}
